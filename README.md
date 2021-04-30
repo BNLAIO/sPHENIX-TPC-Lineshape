@@ -10,8 +10,7 @@ A few example ADC wavelet is fit with parameters shown in the same folder.
 
 # The data
 
-Here we just load one output file from run 300, when we put 120 GeV proton beam through the center of the TPC prototye that measures the beam position in 16 planes. 
-Event 10 where a track through the detector is selected and its clusterss are fit to the above function.
+Here we just load one output file from run 300, when we put 120 GeV proton beam through the center of the TPC prototye that measures the beam position in 16 planes. The signal is digitized on SAMPAv4 ASIC digitized at 20MHz. Event 10 where a track through the detector is selected and its clusterss are fit to the above function.
 
 ![Test beam](https://github.com/sPHENIX-Collaboration/tutorials/raw/0a12b21ed5b7950106d29e79597eba869d9404d0/JupyterLab/images/2019-sPHENIX-testbeam.jpg)
 ![Test beam](https://github.com/sPHENIX-Collaboration/tutorials/raw/0a12b21ed5b7950106d29e79597eba869d9404d0/JupyterLab/images/Beam-and-TPC.png)
